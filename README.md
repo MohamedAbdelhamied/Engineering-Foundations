@@ -16,7 +16,7 @@ I don't just solve equations; I implement them across the entire engineering spe
 * **Domain Focus:** Linux Kernel Architecture, Cybersecurity Protocols (Encryption/XOR), and DevOps Infrastructure.
 
 ## 📂 Chapters Completed
-* [Chapter 1: Numbers & Negative Numbers](./1.Master%20the%20Fundamentals%20of%20Math/1.Numbers%20and%20negative%20numbers/Chapter_01_Master_Index.md) - Mastering signed logic and magnitude across 18 Engineering Bridges.
+* [Chapter 1: Numbers & Negative Numbers](./1.Master%20the%20Fundamentals%20of%20Math/1.Numbers%20and%20negative%20numbers/Chapter_01_Master_Index.md) - Mastering signed logic and magnitude across 6 Engineering Bridges.
 
 ## 🔗 Connected Writing
 * [Follow me on Medium](https://medium.com/@mohamed_abdelhamied)
