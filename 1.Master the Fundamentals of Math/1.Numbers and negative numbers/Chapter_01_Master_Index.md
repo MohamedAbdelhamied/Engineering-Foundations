@@ -14,5 +14,5 @@
 | 6 | Absolute Value | SLA Monitoring & MAE (AI) |
 
 ## 🧪 Technical Assets
-* **Jupyter Lab:** [View the Lab Notebook](./Chapter_01_Lab.ipynb)
+* **Jupyter Lab:** [View the Lab Notebook Directory](./JupyterLab/)
 * **Visual Documentation:** [Notebook Scans Directory](./Notebook_Scans/)
