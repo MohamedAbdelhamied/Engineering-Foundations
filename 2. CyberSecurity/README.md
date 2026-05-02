@@ -40,6 +40,12 @@ This journey is tracked and validated by industry leaders. This methodology has 
 * **Specialized Research:** InfoSecLabs (Validated Manual Methodology & Automation Loops).
 * **Global Consulting:** Deloitte, Accenture, EY, Tata Consultancy Services.
 ---
+### 🛡️ Proof of Methodology
+<p align="center">
+  <img src="./assets/infoseclabs_validation_full-20260502.png" alt="InfoSecLabs Validation">
+  <br>
+  <em>Validation of the 'Triple-Sync' methodology and automation engine by InfoSecLabs practitioners.</em>
+</p>
 
 ---
 
