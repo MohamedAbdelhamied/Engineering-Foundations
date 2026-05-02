@@ -37,8 +37,8 @@ Every module in this domain follows a strict synchronization process to ensure t
 This journey is tracked and validated by industry leaders. This methodology has gained visibility and engagement from professionals at:
 * **The "Big Tech" Tier:** Google, Amazon, IBM.
 * **Cybersecurity Elite:** CrowdStrike, HackerOne, Bugcrowd, TCM Security.
+* **Specialized Research:** InfoSecLabs (Validated Manual Methodology & Automation Loops).
 * **Global Consulting:** Deloitte, Accenture, EY, Tata Consultancy Services.
-
 ---
 
 ---
