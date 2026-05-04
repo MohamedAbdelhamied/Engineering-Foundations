@@ -19,17 +19,17 @@ Every module in this domain follows a strict synchronization process to ensure t
 *Focus: Mastering the OS Kernel, Bash Scripting, and Automation.*
 *   **Status:** ✅ Completed (18-Day Deep Build)
 *   **Key Asset:** Custom Automation Engine for Network Discovery.
-*   **Source:** TCM Security Curriculum.
+*   **Source:** [TCM Security Linux 100 Fundamentals](https://tcm-sec.com/academy/linux-100-fundamentals/)
 
 ### 📂 [Programming 100 Fundamentals](#)
 *Focus: Logic and implementation for security professionals.*
 *   **Status:** ⏳ Upcoming
-*   **Source:** TCM Security.
+*   **Source:** [TCM Security Programming 100 Fundamentals](https://tcm-sec.com/academy/programming-100-fundamentals/)
 
 ### 📂 [Linux 101](#)
 *Focus: Advanced systems administration and security hardening.*
 *   **Status:** ⏳ Upcoming
-*   **Source:** TCM Security.
+*   **Source:** [TCM Security Linux 101](https://tcm-sec.com/academy/linux-101/)
 
 ---
 
