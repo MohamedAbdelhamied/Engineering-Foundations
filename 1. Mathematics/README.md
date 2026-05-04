@@ -24,8 +24,7 @@ Every mathematical module follows a strict synchronization process to ensure tha
 ### 📂 [2. Algebra 1 & 2](#)
 *Focus: Advanced equations, functions, and algebraic structures.*
 *   **Status:** ⏳ Next Up
-*   **Source:** [Krista King Algebra 1](https://courses.kristakingmath.com/library/algebra-1-44446/110490/about/)
-*   **Source:** [Krista King Algebra 2](https://courses.kristakingmath.com/library/algebra-2-44453/110492/about/)
+*   **Source:** [Krista King Algebra 1](https://courses.kristakingmath.com/library/algebra-1-44446/110490/about/) | [Krista King Algebra 2](https://courses.kristakingmath.com/library/algebra-2-44453/110492/about/)
 
 ### 📂 [3. Linear Algebra](#)
 *Focus: Vector spaces, matrices, and high-dimensional transformations for AI.*
@@ -44,10 +43,9 @@ Every concept in this domain is validated against 6 distinct engineering pillars
 | **CPU Architecture** | Sign Flags, Register Logic, and Overflow. |
 | **Software Arch** | Validation, Decorators, and Big O Notation. |
 | **AI & ML** | Weight Activation and Error Margins. |
-| **Cloud Infra** | SLA Monitoring and Billing Offsets. |
+| **Cloud Infra** | Orchestration Logic, CIDR Subnetting, and Auto-scaling Rates. |
 
 ---
-
 
 ## 📈 Global Visibility & Industry Validation
 This mathematical approach to engineering is recognized for its depth and "Slow Burn" methodology. 
