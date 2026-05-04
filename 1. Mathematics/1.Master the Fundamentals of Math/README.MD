@@ -10,8 +10,8 @@ Use the table below to navigate the specific **Triple-Sync** assets for each cha
 
 | Chapter | Status | Analog (Scans) | Digital (Labs) |
 | :--- | :---: | :---: | :---: |
-| **01: Numbers & Negatives** | 🟢 | [View](./Notebook_Scans/Chapter_01/) | [View](./JupyterLab/Chapter_01/) |
-| **02: Factors and multiples** | 🟢 | [View](./Notebook_Scans/Chapter_02/) | [View](./JupyterLab/Chapter_02/) |
+| **01: Numbers & Negatives** | 🟢 | [View](./1.%20Numbers%20and%20negative%20numbers/Notebook_Scans) | [View](./1.%20Numbers%20and%20negative%20numbers/JupyterLab) |
+| **02: Factors and multiples** | 🏃 | [Coming Soon](#) | [Coming Soon](#) |
 | **03: Fractions** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
 | **04: Mixed numbers** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
 | **05: Decimals** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
