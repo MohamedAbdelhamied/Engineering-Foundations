@@ -1,6 +1,10 @@
 # Engineering Foundations: The Math-to-Systems Sprint 🚀
-
 > **Note:** This repository is a living technical document. It is updated periodically as I bridge new mathematical concepts into high-level engineering applications. Stay tuned for updates.
+
+## ⚖️ Legal & Ethical Disclaimer
+
+> **For Educational Purposes Only.**  
+> This repository is a technical log of my engineering journey. All information, logic, and architectural blueprints are provided for educational and research purposes. I am not responsible for any misuse of the content provided here. Users are expected to act with integrity and strictly adhere to all applicable laws and the permission-based constraints of the **Authorized Testing** environments.
 
 ## 📌 Project Overview
 This repository documents my journey of mastering the mathematical DNA that powers modern global infrastructure. My goal is to move beyond abstract theory by building **"Professional Bridges"** between core mathematics and the actual systems we build, secure, and scale.
