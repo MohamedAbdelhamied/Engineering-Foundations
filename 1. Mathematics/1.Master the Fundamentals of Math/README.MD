@@ -6,7 +6,18 @@
 ---
 
 ## 📈 Course Progress & Asset Map
-Use the table below to navigate the specific **Triple-Sync** assets for each chapter.
+
+### 🗝️ Legend
+| Icon | Status | Description |
+| :--- | :--- | :--- |
+| 🟢 | **Completed** | Chapter logic, scans, and labs are fully documented. |
+| 🏃 | **In Progress** | Currently sprinting through this chapter. |
+| ⏳ | **Upcoming** | Scheduled for the next phase of the roadmap. |
+
+---
+
+### 🗺️ Technical Navigation
+Use the table below to access the specific **Triple-Sync** assets for each chapter.
 
 | Chapter | Status | Analog (Scans) | Digital (Labs) |
 | :--- | :---: | :---: | :---: |
