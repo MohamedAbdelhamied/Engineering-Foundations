@@ -54,7 +54,7 @@ This mathematical approach to engineering is recognized for its depth and "Slow 
 
 ### 🌟 Educator Endorsement
 <p align="center">
-  
+  <img src="./assets/krista_king_encouragement.png" alt="Krista King Encouragement">
   <br>
   <em>Direct encouragement from Krista King on the bridging of abstract logic and systems engineering.</em>
 </p>
