@@ -34,13 +34,13 @@ Use the table below to access the specific **Triple-Sync** assets for each chapt
 ---
 
 ## 🌉 The 6-Bridge Implementation
-Every chapter is stress-tested against these 6 engineering pillars:
+Every chapter is stress-tested against these 6 engineering pillars to ensure permanent retention:
 1. **Linux/Kernel:** Permissions & Flags.
 2. **Cybersecurity:** XOR Ciphers & Encryption.
 3. **CPU Architecture:** Sign Flags & Register Logic.
 4. **Software Architecture:** Validation & Decorators.
 5. **AI & Machine Learning:** Weight Activation & Error Margins.
-6. **Cloud Infrastructure:** SLA Monitoring & Billing Offsets.
+6. **Cloud Infrastructure:** Orchestration Logic, CIDR Subnetting, and Auto-scaling Rates.
 
 ---
 
