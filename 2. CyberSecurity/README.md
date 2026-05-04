@@ -23,7 +23,7 @@ Every module in this domain follows a strict synchronization process to ensure t
 
 ### 📂 [Programming 100 Fundamentals](#)
 *Focus: Logic and implementation for security professionals.*
-*   **Status:** ⏳ Upcoming
+*   **Status:** ⏳ Next Up
 *   **Source:** [TCM Security Programming 100 Fundamentals](https://tcm-sec.com/academy/programming-100-fundamentals/)
 
 ### 📂 [Linux 101](#)
