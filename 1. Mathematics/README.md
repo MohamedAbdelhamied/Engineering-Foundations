@@ -12,6 +12,14 @@ Every mathematical module follows a strict synchronization process to ensure tha
 3. **Applied (Bridge):** Mapping every concept to one of the **6 Engineering Bridges** (Linux, Security, CPU, AI, Cloud, Software).
 
 ---
+### 🗝️ Roadmap Legend
+| Icon | Status | Description |
+| :--- | :--- | :--- |
+| 🟢 | **Completed** | Chapter logic, scans, and labs are fully documented. |
+| 🏃 | **In Progress** | Currently sprinting through this chapter. |
+| ⏳ | **Upcoming** | Scheduled for the next phase of the roadmap. |
+
+---
 
 ## 🗺️ Curriculum Roadmap
 
