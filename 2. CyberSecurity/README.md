@@ -10,8 +10,16 @@ Every module in this domain follows a strict synchronization process to ensure t
 1. **Analog (Logic):** Handwritten decomposition of concepts to bake logic into muscle memory.
 2. **Digital (Command Center):** Jupyter Lab & Markdown documentation for rapid execution and reference.
 3. **Mathematical (DNA):** Mapping security logic back to algebraic variables and set theory.
-
 ---
+## 🛡️ Responsible Disclosure & Safe Harbor
+To maintain the highest ethical standards and prevent the distribution of "weaponized" tools:
+
+*   **Logic Over Scripts:** This repository prioritizes the **logic** and **architecture** behind exploitation and defense.
+*   **Blueprint Strategy:** High-level diagrams and handwritten flowcharts (the "Analog" layer) are provided so practitioners can learn to build their own tools responsibly.
+*   **Non-Distribution Policy:** Specific weaponized scripts are intentionally omitted. The goal is to foster deep intuition, not to provide "off-the-shelf" exploitation tools.
+*   **Ethical Use:** Implementation of any concept found here must only be conducted on systems you own or have explicit, written permission to test.
+---
+
 ### 🗝️ Roadmap Legend
 | Icon | Status | Description |
 | :--- | :--- | :--- |
