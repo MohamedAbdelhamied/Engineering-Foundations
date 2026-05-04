@@ -12,12 +12,21 @@ Every module in this domain follows a strict synchronization process to ensure t
 3. **Mathematical (DNA):** Mapping security logic back to algebraic variables and set theory.
 
 ---
+### 🗝️ Roadmap Legend
+| Icon | Status | Description |
+| :--- | :--- | :--- |
+| 🟢 | **Completed** | Chapter logic, scans, and labs are fully documented. |
+| 🏃 | **In Progress** | Currently sprinting through this chapter. |
+| ⏳ | **Upcoming** | Scheduled for the next phase of the roadmap. |
+
+---
+
 
 ## 🗺️ Curriculum Roadmap
 
 ### 📂 [Linux 100 Fundamentals](./1.%20Linux%20100%20Fundamentals)
 *Focus: Mastering the OS Kernel, Bash Scripting, and Automation.*
-*   **Status:** ✅ Completed (18-Day Deep Build)
+*   **Status:** 🟢 Completed (18-Day Deep Build)
 *   **Key Asset:** Custom Automation Engine for Network Discovery.
 *   **Source:** [TCM Security Linux 100 Fundamentals](https://tcm-sec.com/academy/linux-100-fundamentals/)
 
