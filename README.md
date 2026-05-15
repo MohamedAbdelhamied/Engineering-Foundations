@@ -30,6 +30,30 @@ I am currently bridging the gap between professional systems engineering and fou
 * **Fundamentals of Math** | **Status: In Progress** ⏳
 * *Click the heading above to view the Mathematics Master Index.*
 
+### 🧠 [Artificial Intelligence](#)
+*   **Status:** ⏳ Upcoming
+
+### 🌲 [Algorithms & Data Structures](#)
+*   **Status:** ⏳ Upcoming
+
+### 🤖 [Robotics & Electronics](#)
+*   **Status:** ⏳ Upcoming
+
+### 🏎️ [Autonomous Automotive](#)
+*   **Status:** ⏳ Upcoming
+
+### 📊 [Data Science](#)
+*   **Status:** ⏳ Upcoming
+
+### ⚛️ [Physics](#)
+*   **Status:** ⏳ Upcoming
+
+### 🏎️ [Autonomous Automotive](#)
+*   **Status:** ⏳ Upcoming
+
+### 🛰️ [Satellite and Space](#)
+*   **Status:** ⏳ Upcoming
+
 ## ⚙️ Environment Setup & Infrastructure
 This repository utilizes a "Sovereign Lab" configuration to ensure cross-language execution and reproducibility.
 <details>
