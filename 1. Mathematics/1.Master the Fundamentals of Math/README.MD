@@ -22,14 +22,14 @@ Use the table below to access the specific **Triple-Sync** assets for each chapt
 | Chapter | Status | Analog (Scans) | Digital (Labs) |
 | :--- | :---: | :---: | :---: |
 | **01: Numbers & Negatives** | 🟢 | [View](./1.%20Numbers%20and%20negative%20numbers/Notebook_Scans) | [View](./1.%20Numbers%20and%20negative%20numbers/JupyterLab) |
-| **02: Factors and multiples** | 🏃 | [Coming Soon](#) | [Coming Soon](#) |
-| **03: Fractions** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **04: Mixed numbers** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **05: Decimals** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **06: Ratio and proportion** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **07: Exponents** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **08: Radicals** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
-| **09: Scientific notation** | ⏳ | [Coming Soon](#) | [Coming Soon](#) |
+| **02: Factors and multiples** | 🟢 | [View](./2.%20Factors%20and%20multiples/Nootbook_Scans/) | [View](./2.%20Factors%20and%20multiples/JupyterLab/) |
+| **03: Fractions** | 🟢 | [View](./3.%20Fractions/Nootbook_Scans/) | [View](./3.%20Fractions/JupyterLab/) |
+| **04: Mixed numbers** | 🟢 | [View](./4.%20Mixed%20numbers/Nootbook_Scans/) | [View](./4.%20Mixed%20numbers/JupyterLab/) |
+| **05: Decimals** | 🟢 | [View](./5.%20Decimals/Nootbook_Scans/) | [View](./5.%20Decimals/JupyterLab/) |
+| **06: Ratio and proportion** | 🟢 | [View](./6.%20Ratio%20and%20proportion/Nootbook_Scans/) | [View](./6.%20Ratio%20and%20proportion/JupyterLab/) |
+| **07: Exponents** | 🟢 | [View](./7.%20Exponents/Nootbook_Scans/) | [View](./7.%20Exponents/JupyterLab/) |
+| **08: Radicals** | 🟢 | [View](./8.%20Radicals/Nootbook_Scans/) | [View](./8.%20Radicals/JupyterLab/) |
+| **09: Scientific notation** | 🟢 | [View](./9.%20Scientific%20notation/Nootbook_Scans/) | [View](./9.%20Scientific%20notation/JupyterLab/) |
 
 ---
 

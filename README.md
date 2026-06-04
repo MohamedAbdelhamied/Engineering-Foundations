@@ -18,16 +18,23 @@ I don't just solve equations; I implement them across the entire engineering spe
     * **Now:** Python (Jupyter Labs), Matplotlib.
     * **Coming Soon:** Bash Scripting, SQL Database Logic, Assembly (Low-Level Optimization), and C.
 * **Domain Focus:** Linux Kernel Architecture, Cybersecurity Protocols (Encryption/XOR), and DevOps Infrastructure.
-
+---
+### 🗝️ Roadmap Legend
+| Icon | Status | Description |
+| :--- | :--- | :--- |
+| 🟢 | **Completed** | Chapter logic, scans, and labs are fully documented. |
+| 🏃 | **In Progress** | Currently sprinting through this chapter. |
+| ⏳ | **Upcoming** | Scheduled for the next phase of the roadmap. |
+---
 ## 🗺️ Learning Roadmap
 I am currently bridging the gap between professional systems engineering and foundational mathematics.
 
 ### 🛡️ [CyberSecurity](./2.%20CyberSecurity/)
-* **Linux 100 Fundamentals** | **Status: 100% Completed** ✅
+* **Linux 100 Fundamentals** | **Status: 100% Completed** 🟢
 * *Click the heading above to view the CyberSecurity Master Index.*
 
 ### 📐 [Mathematics](./1.%20Mathematics/)
-* **Fundamentals of Math** | **Status: In Progress** ⏳
+* **Fundamentals of Math** | **Status: 100% Completed** 🟢
 * *Click the heading above to view the Mathematics Master Index.*
 
 ### 🧠 [Artificial Intelligence](#)
